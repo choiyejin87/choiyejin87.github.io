@@ -38,7 +38,7 @@ disqus:
 # twitter: mytwitter
 instagram: yejin_justina
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 github: choiyejin87
@@ -58,6 +58,7 @@ authors:
         bio: Researcher, Library and Information Science, PhD
         external-image: false
         picture: assets/images/profile.jpg
+        twitter: 
 
 
 # do you want a larger site? change the option below
